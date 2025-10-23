@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.16)  22 OCT 2025 14:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.16)  23 OCT 2025 13:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1293,132 +1293,141 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 [1
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 109
+LaTeX Font Info:    Trying to load font information for U+msa on input line 115
 .
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 109
+LaTeX Font Info:    Trying to load font information for U+msb on input line 115
 .
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 109.
+ut line 115.
 
 (c:/texlive/2022/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-Overfull \hbox (31.70335pt too wide) in paragraph at lines 109--109
-[][] 
+Overfull \hbox (31.70335pt too wide) in paragraph at lines 115--115
+ [][] 
  []
 
 <Images//ballotta.jpg, id=35, 151.3153pt x 188.95593pt>
 File: Images//ballotta.jpg Graphic file (type jpg)
 <use Images//ballotta.jpg>
-Package pdftex.def Info: Images//ballotta.jpg  used on input line 109.
-(pdftex.def)             Requested size: 48.18744pt x 60.17303pt.
+Package pdftex.def Info: Images//ballotta.jpg  used on input line 115.
+(pdftex.def)             Requested size: 41.30322pt x 51.57813pt.
+<Images//trips.png, id=36, 445.59111pt x 195.52803pt>
+File: Images//trips.png Graphic file (type png)
+<use Images//trips.png>
+Package pdftex.def Info: Images//trips.png  used on input line 115.
+(pdftex.def)             Requested size: 292.56812pt x 128.38655pt.
 [2
 
- <./Images//ballotta.jpg>]
-<Images//network_control.png, id=42, 633.13841pt x 173.8027pt>
+ <./Images//ballotta.jpg> <./Images//trips.png>]
+<Images//network_control.png, id=45, 633.13841pt x 173.8027pt>
 File: Images//network_control.png Graphic file (type png)
 <use Images//network_control.png>
-Package pdftex.def Info: Images//network_control.png  used on input line 153.
+Package pdftex.def Info: Images//network_control.png  used on input line 159.
 (pdftex.def)             Requested size: 162.99873pt x 44.74443pt.
-<Images//sensing_comm_codesign.png, id=46, 633.13841pt x 208.82927pt>
+<Images//sensing_comm_codesign.png, id=48, 633.13841pt x 208.82927pt>
 File: Images//sensing_comm_codesign.png Graphic file (type png)
 <use Images//sensing_comm_codesign.png>
 Package pdftex.def Info: Images//sensing_comm_codesign.png  used on input line 
-153.
+159.
 (pdftex.def)             Requested size: 135.65837pt x 44.74443pt.
-<Images//safe_control.pdf, id=47, 544.81723pt x 488.57893pt>
+<Images//safe_control.pdf, id=49, 544.81723pt x 488.57893pt>
 File: Images//safe_control.pdf Graphic file (type pdf)
 <use Images//safe_control.pdf>
-Package pdftex.def Info: Images//safe_control.pdf  used on input line 153.
+Package pdftex.def Info: Images//safe_control.pdf  used on input line 159.
 (pdftex.def)             Requested size: 92.93304pt x 83.3406pt.
  [3
 
  <./Images//network_control.png> <./Images//sensing_comm_codesign.png> <./Image
 s//safe_control.pdf>]
-<Images//career.jpg, id=102, 851.43094pt x 135.50626pt>
+<Images//career.jpg, id=104, 851.43094pt x 135.50626pt>
 File: Images//career.jpg Graphic file (type jpg)
 <use Images//career.jpg>
-Package pdftex.def Info: Images//career.jpg  used on input line 174.
+Package pdftex.def Info: Images//career.jpg  used on input line 180.
 (pdftex.def)             Requested size: 344.19533pt x 54.78047pt.
- [4
+
+[4
 
  <./Images//career.jpg>]
-<Images//multi_robot_1.jpg, id=109, 434.62375pt x 244.915pt>
-File: Images//multi_robot_1.jpg Graphic file (type jpg)
-<use Images//multi_robot_1.jpg>
-Package pdftex.def Info: Images//multi_robot_1.jpg  used on input line 187.
-(pdftex.def)             Requested size: 172.09766pt x 96.9814pt.
-LaTeX Font Info:    Trying to load font information for U+fontawesomethree on i
-nput line 187.
-(c:/texlive/2022/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
-File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
-)
-[5
+<Images//multi_robot_scheme.png, id=111, 807.38448pt x 428.29951pt>
+File: Images//multi_robot_scheme.png Graphic file (type png)
+<use Images//multi_robot_scheme.png>
+Package pdftex.def Info: Images//multi_robot_scheme.png  used on input line 193
+.
+(pdftex.def)             Requested size: 275.3573pt x 146.07083pt.
+ [5
 
- <./Images//multi_robot_1.jpg>]
-<Images//scheme_robust_codesign_comm.png, id=116, 575.05638pt x 263.36429pt>
+ <./Images//multi_robot_scheme.png>]
+<Images//scheme_robust_codesign_comm.png, id=119, 575.05638pt x 263.36429pt>
 File: Images//scheme_robust_codesign_comm.png Graphic file (type png)
 <use Images//scheme_robust_codesign_comm.png>
 Package pdftex.def Info: Images//scheme_robust_codesign_comm.png  used on input
- line 200.
+ line 206.
 (pdftex.def)             Requested size: 344.19533pt x 157.63802pt.
  [6
 
  <./Images//scheme_robust_codesign_comm.png>]
-<Images//scheme_bau.png, id=123, 486.8249pt x 244.29921pt>
+<Images//scheme_bau.png, id=126, 486.8249pt x 244.29921pt>
 File: Images//scheme_bau.png Graphic file (type png)
 <use Images//scheme_bau.png>
-Package pdftex.def Info: Images//scheme_bau.png  used on input line 240.
+Package pdftex.def Info: Images//scheme_bau.png  used on input line 246.
 (pdftex.def)             Requested size: 161.32126pt x 80.95491pt.
 File: Images//scheme_robust_codesign_comm.png Graphic file (type png)
 <use Images//scheme_robust_codesign_comm.png>
 Package pdftex.def Info: Images//scheme_robust_codesign_comm.png  used on input
- line 240.
+ line 246.
 (pdftex.def)             Requested size: 176.76517pt x 80.95491pt.
 
-Overfull \hbox (8.10757pt too wide) in paragraph at lines 240--240
+Overfull \hbox (8.10757pt too wide) in paragraph at lines 246--246
  [][] 
  []
 
+LaTeX Font Info:    Trying to load font information for U+fontawesomethree on i
+nput line 246.
+(c:/texlive/2022/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
+File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
+)
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 240.
+ut line 246.
+
 (c:/texlive/2022/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 ) [7
 
  <./Images//scheme_bau.png>]
+<Images//multi_robot_1.jpg, id=136, 434.62375pt x 244.915pt>
 File: Images//multi_robot_1.jpg Graphic file (type jpg)
 <use Images//multi_robot_1.jpg>
-Package pdftex.def Info: Images//multi_robot_1.jpg  used on input line 265.
+Package pdftex.def Info: Images//multi_robot_1.jpg  used on input line 271.
 (pdftex.def)             Requested size: 152.69756pt x 86.04665pt.
-<Images//multi_robot_2.png, id=133, 390.258pt x 219.58035pt>
+<Images//multi_robot_2.png, id=138, 390.258pt x 219.58035pt>
 File: Images//multi_robot_2.png Graphic file (type png)
 <use Images//multi_robot_2.png>
-Package pdftex.def Info: Images//multi_robot_2.png  used on input line 265.
+Package pdftex.def Info: Images//multi_robot_2.png  used on input line 271.
 (pdftex.def)             Requested size: 152.93245pt x 86.0481pt.
-<Images//multi_robot_3.jpg, id=135, 1405.25pt x 790.955pt>
+<Images//multi_robot_3.jpg, id=140, 1405.25pt x 790.955pt>
 File: Images//multi_robot_3.jpg Graphic file (type jpg)
 <use Images//multi_robot_3.jpg>
-Package pdftex.def Info: Images//multi_robot_3.jpg  used on input line 265.
+Package pdftex.def Info: Images//multi_robot_3.jpg  used on input line 271.
 (pdftex.def)             Requested size: 152.86258pt x 86.0398pt.
-<Images//multi_robot_4.png, id=137, 481.8pt x 271.0125pt>
+<Images//multi_robot_4.png, id=142, 481.8pt x 271.0125pt>
 File: Images//multi_robot_4.png Graphic file (type png)
 <use Images//multi_robot_4.png>
-Package pdftex.def Info: Images//multi_robot_4.png  used on input line 265.
+Package pdftex.def Info: Images//multi_robot_4.png  used on input line 271.
 (pdftex.def)             Requested size: 152.97346pt x 86.04758pt.
  [8
 
- <./Images//multi_robot_2.png> <./Images//multi_robot_3.jpg> <./Images//multi_r
-obot_4.png>]
+ <./Images//multi_robot_1.jpg> <./Images//multi_robot_2.png> <./Images//multi_r
+obot_3.jpg> <./Images//multi_robot_4.png>]
 \tf@nav=\write6
 \openout6 = `casebot_slides.nav'.
 
@@ -1428,15 +1437,16 @@ obot_4.png>]
 \tf@snm=\write8
 \openout8 = `casebot_slides.snm'.
 
- (./casebot_slides.aux)
+
+(./casebot_slides.aux)
 Package rerunfilecheck Info: File `casebot_slides.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 40807 strings out of 478300
- 960677 string characters out of 5849117
+ 40829 strings out of 478300
+ 961240 string characters out of 5849117
  1379358 words of memory out of 5000000
- 58159 multiletter control sequences out of 15000+600000
+ 58181 multiletter control sequences out of 15000+600000
  487853 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,730b,654s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1448,12 +1458,12 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2022/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2022/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmss9.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmssbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfon
-ts/symbols/msam10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/zapfding/uzdr
-.pfb>
-Output written on casebot_slides.pdf (8 pages, 7709890 bytes).
+ts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbol
+s/msam10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on casebot_slides.pdf (8 pages, 8417344 bytes).
 PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
- 110 compressed objects within 2 object streams
+ 204 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
  17 named destinations out of 1000 (max. 500000)
- 164 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 174 words of extra memory for PDF output out of 10000 (max. 10000000)
 
